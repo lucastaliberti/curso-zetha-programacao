@@ -1,1 +1,1 @@
-# curso-zetha-programacao
+# Curso Zetha Programação
