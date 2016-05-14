@@ -57,6 +57,7 @@ Até mesmo as coisas mais simples, podem ser descritas por seqüências lógicas
 
 
 1.5 Programas
+
 Os programas de computadores nada mais são do que algoritmos escritos numa linguagem de
 computador (Pascal, C, Cobol, Fortran, Visual Basic entre outras) e que são interpretados e
 executados por uma máquina, no caso um computador. Notem que dada esta interpretação
