@@ -46,15 +46,24 @@ manuais de aparelhos eletrônicos, como um videocassete, que explicam passo-a-pa
 exemplo, gravar um evento.
 Até mesmo as coisas mais simples, podem ser descritas por seqüências lógicas. Por exemplo:
 
+
 “Chupar uma bala”
+
 	• Pegar a bala
+
 	• Retirar o papel
+
 	• Chupar a bala
+
 	• Jogar o papel no lixo
 
+	
 “Somar dois números quaisquer”
+
 	• Escreva o primeiro número no retângulo A
+		
 	• Escreva o segundo número no retângulo B
+
 	• Some o número do retângulo A com número do retângulo B e coloque o resultado no retângulo C
 
 
