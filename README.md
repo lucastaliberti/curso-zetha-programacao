@@ -74,5 +74,3 @@ computador (Pascal, C, Cobol, Fortran, Visual Basic entre outras) e que são int
 executados por uma máquina, no caso um computador. Notem que dada esta interpretação
 rigorosa, um programa é por natureza muito específico e rígido em relação aos algoritmos da vida
 real. 
->>>>>>> 58737854f42784b424e6d8268179dff567d9c1f8
->>>>>>> texto
