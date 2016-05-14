@@ -36,6 +36,7 @@ a executar.
 
 
 1.4 Algoritmo
+
 Um algoritmo é formalmente uma seqüência finita de passos que levam a execução de uma
 tarefa. Podemos pensar em algoritmo como uma receita, uma seqüência de instruções que dão
 cabo de uma meta específica. Estas tarefas não podem ser redundantes nem subjetivas na sua
