@@ -1,0 +1,6 @@
+---
+layout: default
+---
+
+*Index*
+**Lógica**

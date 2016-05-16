@@ -19,3 +19,22 @@ markdown: kramdown
 
 # pages
 include: ['_pages']
+
+#collections
+collections:
+  git:
+    title: Git
+    output: true
+    permalink: /:collection/
+  sql:
+    title: SQL
+    output: true
+    permalink: /:collection/
+  logica:
+    title: Lógica
+    output: true
+    permalink: /:collection/
+  csharp:
+    title: C#
+    output: true
+    permalink: /:collection/
