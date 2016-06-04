@@ -1,4 +1,4 @@
-Rodrigo 
+Rodrigo Lima
 
 Informações do curso no dia 21/05 - Aula de criação da primeira página em HTML
 
