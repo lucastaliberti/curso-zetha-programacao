@@ -1,4 +1,4 @@
-Rodrigo Lima
+Raphael Amaral
 
 Informações do curso no dia 21/05 - Aula de criação da primeira página em HTML
 
@@ -19,5 +19,4 @@ Informações do curso no dia 21/05 - Aula de criação da primeira página em H
 
 
 
-5. Criamos os arquivos através do ECHO >> Hello World + add > commit > push 
-
+5. Criamos os arquivos através do ECHO >> Hello World + add > commit > push
